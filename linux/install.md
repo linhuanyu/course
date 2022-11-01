@@ -72,6 +72,5 @@ apt-key adv --keyserver [key from which server] --recv-keys [key name]
 
 ## 練習 ##
 
-試著自己裝一次 R 語言，並且理解裡面每個步驟的意義
+試著參考[網站教學](https://ubunlog.com/zh-TW/lenguaje-de-programacion-r-instalacion-ubuntu-20-04/)自己裝一次 R 語言，並且理解裡面每個步驟的意義
 
-https://ubunlog.com/zh-TW/lenguaje-de-programacion-r-instalacion-ubuntu-20-04/
